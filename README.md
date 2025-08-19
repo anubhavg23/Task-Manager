@@ -71,7 +71,7 @@ Stay organized, track progress, and improve team collaboration — all in one pl
 
 <pre>
 # Clone the repo
-git clone https://github.com/your-username/setmytask.git
+git clone https://github.com/anubhavg23/Task-Manager.git
 
 # Go to Backend
 cd Backend
