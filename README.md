@@ -1,4 +1,4 @@
-<h1>📋 SETMYTASK - PanScience</h1>
+<h1>📋 SETMYTASK - </h1>
 
 <p>
 A modern and user-friendly <b>Task Management Web App</b>.<br>
